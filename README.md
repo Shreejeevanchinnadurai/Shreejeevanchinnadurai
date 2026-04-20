@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shreejeevan%20C&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data+Science+|+ML+|+AI+|+Analytics&descAlignY=58&descAlign=50"/>
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Shreejeevan+C;Data+Science+%7C+ML+%7C+AI;Turning+Data+into+Insights+🚀" alt="Typing SVG" />
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> I'm Shreejeevan C
 </h1>
-<h3 align="center">Data Science | Machine Learning | AI | Data Analytics</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer+💻;Data+Science+Enthusiast+📊;Data+Analytics+Expert+📈;Machine+Learning+Engineer+🤖;AI+%26+NLP+Builder+🧠;Turning+Data+into+Insights+🚀" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Shreejeevanchinnadurai">
@@ -143,4 +149,8 @@ Full stack expense tracking application for personal finance management with rea
   <a href="https://github.com/Shreejeevanchinnadurai">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </p>
