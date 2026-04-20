@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shreejeevan C</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Shreejeevan+C;Data+Science+%7C+ML+%7C+AI;Turning+Data+into+Insights+🚀" alt="Typing SVG" />
+</h1>
 <h3 align="center">Data Science | Machine Learning | AI | Data Analytics</h3>
 
 <p align="center">
@@ -111,10 +114,10 @@ Full stack expense tracking application for personal finance management with rea
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreejeevanchinnadurai&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreejeevanchinnadurai&theme=radical&hide_border=true"/>
 </p>
 
 ---
