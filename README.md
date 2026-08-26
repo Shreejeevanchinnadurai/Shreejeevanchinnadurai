@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Data+Analytics+Expert+%F0%9F%93%88;Machine+Learning+Engineer+%F0%9F%A4%96;AI+%26+NLP+Builder+%F0%9F%A7%A0;Turning+Data+into+Insights+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Data+Analytics+Expert+%F0%9F%93%88;Machine+Learning+Engineer+%F0%9F%A4%96;AI+%26+NLP+Builder+%F0%9F%A7%A0;Turning+Data+into+Insights+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -151,7 +151,7 @@ A full-stack personal finance management application for tracking expenses and v
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreejeevanchinnadurai&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Shreejeevanchinnadurai&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 ---
@@ -159,7 +159,7 @@ A full-stack personal finance management application for tracking expenses and v
 # 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreejeevanchinnadurai&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shreejeevanchinnadurai&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -182,10 +182,10 @@ A full-stack personal finance management application for tracking expenses and v
 
 # 🏅 Certifications & Achievements
 
-- 🎓 **Master Data Science Program** — GUVI HCL (IITM Incubated, Aug 2026)
-- 📊 **Data Analytics Using Pandas** — GUVI
-- 🤖 **Machine Learning** — GUVI
-- 📈 **Data Visualization in Python** — GUVI
+- 🎓 **[Master Data Science Program](https://drive.google.com/file/d/1ooPnby1Fp6UsjBWVkw-5YQQrDHztG7S1/view?usp=sharing)** — GUVI HCL (IITM Incubated, Aug 2026)
+- 📊 **[Data Analytics Using Pandas](https://drive.google.com/file/d/1cLWw-oTbWKORHT-4JZjeBGvk67lXGVer/view?usp=sharing)** — GUVI
+- 🤖 **[Machine Learning](https://drive.google.com/file/d/1py6RxDEM1A4sn0rcy1PGk7F6QeC7TY0t/view?usp=sharing)** — GUVI
+- 📈 **[Data Visualization in Python](https://drive.google.com/file/d/1NSZhQLVhVGhEXD7Pvi3lnroVmdYn8bMS/view?usp=sharing)** — GUVI
 - 🥇 **Data Navigator Badge** — LeetCode (Feb 2026)
 - 🥇 **SQL 50 Badge** — LeetCode (Jan 2026)
 - 🎓 **Workshop – AI Developing Technologies** — SSN College of Engineering (Aug 2025)
