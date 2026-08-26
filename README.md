@@ -130,6 +130,10 @@ Full stack expense tracking application for personal finance management with rea
 
 ## 🏅 Certifications & Achievements
 
+- 🎓 **[Master Data Science Program](https://drive.google.com/file/d/1ooPnby1Fp6UsjBWVkw-5YQQrDHztG7S1/view?usp=sharing)** – GUVI HCL (IITM Incubated, Aug 2026)
+- 📊 **[Data Analytics Using Pandas](https://drive.google.com/file/d/1cLWw-oTbWKORHT-4JZjeBGvk67lXGVer/view?usp=sharing)** – GUVI
+- 🤖 **[Machine Learning](https://drive.google.com/file/d/1py6RxDEM1A4sn0rcy1PGk7F6QeC7TY0t/view?usp=sharing)** – GUVI
+- 📈 **[Data Visualization in Python](https://drive.google.com/file/d/1NSZhQLVhVGhEXD7Pvi3lnroVmdYn8bMS/view?usp=sharing)** – GUVI
 - 🥇 **Data Navigator Badge** – LeetCode (Feb 2026)
 - 🥇 **SQL 50 Badge** – LeetCode (Jan 2026)
 - 🎓 **Workshop** – AI Developing Technologies, SSN College of Engineering (Aug 2025)
